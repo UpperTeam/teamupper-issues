@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: 📧 联系我们
+    url: mailto:admin@teamupper.tech
+    about: 通过邮件联系项目维护者
